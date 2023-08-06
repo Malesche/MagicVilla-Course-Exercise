@@ -31,3 +31,7 @@
 /Users/maria/-projects/MagicVilla_VillaAPI/obj/Debug/net7.0/MagicVilla_VillaAPI.pdb
 /Users/maria/-projects/MagicVilla_VillaAPI/obj/Debug/net7.0/MagicVilla_VillaAPI.genruntimeconfig.cache
 /Users/maria/-projects/MagicVilla_VillaAPI/obj/Debug/net7.0/ref/MagicVilla_VillaAPI.dll
+/Users/maria/-projects/MagicVilla_VillaAPI/bin/Debug/net7.0/Microsoft.AspNetCore.JsonPatch.dll
+/Users/maria/-projects/MagicVilla_VillaAPI/bin/Debug/net7.0/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+/Users/maria/-projects/MagicVilla_VillaAPI/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/maria/-projects/MagicVilla_VillaAPI/bin/Debug/net7.0/Newtonsoft.Json.Bson.dll

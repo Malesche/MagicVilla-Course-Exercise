@@ -1,31 +1,21 @@
-﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{523359F9-58AA-4388-98A2-39952639B9A4}|https">
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.MagicVilla__VillaAPI PreferredExecutionTarget="/Applications/Firefox.app" />
+﻿<Properties GitUserInfo="UsingGIT">
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Models/Dto/VillaDTO.cs">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.MagicVilla__VillaAPI PreferredExecutionTarget="/Applications/Firefox.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
     <Files>
-      <File FileName="Controllers/VillaAPIController.cs" Line="43" Column="59" />
-      <File FileName="Program.cs" />
-      <File FileName="Models/Villa.cs" />
-      <File FileName="Models/Dto/VillaDTO.cs" Line="10" Column="16" />
-      <File FileName="Data/VillaStore.cs" />
+      <File FileName="Controllers/VillaAPIController.cs" />
+      <File FileName="Program.cs" Line="7" Column="21" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="MagicVilla">
-            <Node name="MagicVilla_VillaAPI">
-              <Node name="Controllers" expanded="True" />
-              <Node name="Models">
-                <Node name="Dto">
-                  <Node name="VillaDTO.cs" selected="True" />
-                </Node>
-              </Node>
-            </Node>
+          <Node name="MagicVilla" expanded="True">
+            <Node name="MagicVilla_VillaAPI" selected="True" />
           </Node>
         </State>
       </Pad>
