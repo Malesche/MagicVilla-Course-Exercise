@@ -35,3 +35,13 @@
 /Users/maria/-projects/MagicVilla_VillaAPI/bin/Debug/net7.0/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
 /Users/maria/-projects/MagicVilla_VillaAPI/bin/Debug/net7.0/Newtonsoft.Json.dll
 /Users/maria/-projects/MagicVilla_VillaAPI/bin/Debug/net7.0/Newtonsoft.Json.Bson.dll
+/Users/maria/-projects/MagicVilla_VillaAPI/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/Users/maria/-projects/MagicVilla_VillaAPI/bin/Debug/net7.0/Serilog.dll
+/Users/maria/-projects/MagicVilla_VillaAPI/bin/Debug/net7.0/Serilog.AspNetCore.dll
+/Users/maria/-projects/MagicVilla_VillaAPI/bin/Debug/net7.0/Serilog.Extensions.Hosting.dll
+/Users/maria/-projects/MagicVilla_VillaAPI/bin/Debug/net7.0/Serilog.Extensions.Logging.dll
+/Users/maria/-projects/MagicVilla_VillaAPI/bin/Debug/net7.0/Serilog.Formatting.Compact.dll
+/Users/maria/-projects/MagicVilla_VillaAPI/bin/Debug/net7.0/Serilog.Settings.Configuration.dll
+/Users/maria/-projects/MagicVilla_VillaAPI/bin/Debug/net7.0/Serilog.Sinks.Console.dll
+/Users/maria/-projects/MagicVilla_VillaAPI/bin/Debug/net7.0/Serilog.Sinks.Debug.dll
+/Users/maria/-projects/MagicVilla_VillaAPI/bin/Debug/net7.0/Serilog.Sinks.File.dll
