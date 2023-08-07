@@ -1,25 +1,25 @@
-﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{523359F9-58AA-4388-98A2-39952639B9A4}|https">
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+﻿<Properties StartupConfiguration="{523359F9-58AA-4388-98A2-39952639B9A4}|https" GitUserInfo="UsingGIT">
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Logging/Logging.cs">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Models/Villa.cs">
     <Files>
-      <File FileName="Controllers/VillaAPIController.cs" Line="5" Column="35" />
-      <File FileName="Program.cs" Line="3" Column="1" />
-      <File FileName="appsettings.json" Line="11" Column="1" />
-      <File FileName="Logging/ILogging.cs" Line="6" Column="48" />
-      <File FileName="Logging/Logging.cs" Line="15" Column="5" />
+      <File FileName="Controllers/VillaAPIController.cs" />
+      <File FileName="Program.cs" Line="2" Column="1" />
+      <File FileName="Models/Villa.cs" Line="8" Column="60" />
+      <File FileName="Models/Dto/VillaDTO.cs" Line="13" Column="22" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="MagicVilla">
             <Node name="MagicVilla_VillaAPI">
-              <Node name="Logging" expanded="True">
-                <Node name="Logging.cs" selected="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models">
+                <Node name="Villa.cs" selected="True" />
               </Node>
             </Node>
           </Node>
